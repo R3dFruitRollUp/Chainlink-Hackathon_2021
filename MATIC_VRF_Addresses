@@ -1,0 +1,27 @@
+Chainlink VRF Contract Addresses
+Suggest Edits
+Chainlink VRF allows you to integrate provably-fair and verifiably random data in your smart contract.
+
+For implementation details, read Introduction to Chainlink VRF.
+
+Polygon (Matic) Mainnet
+Important
+
+The LINK provided by the Polygon (Matic) Bridge is not ERC-677 compatible, so cannot be 
+used with Chainlink oracles. However, it can be converted to the official LINK token on Polygon (Matic) using
+Chainlink's PegSwap service
+
+Item	Value
+LINK Token	0xb0897686c545045aFc77CF20eC7A532E3120E0F1
+VRF Coordinator	0x3d2341ADb2D31f1c5530cDC622016af293177AE0
+Key Hash	0xf86195cf7690c55907b2b611ebb7343a6f649bff128701cc542f0569e2c549da
+Fee	0.0001 LINK
+VRF Response Times on Polygon
+
+VRF responses are generated after 10 block confirmations on Polygon by default. 
+Please get in touch with us if you require VRF responses to be
+generated after a higher number of block confirmations, based on what 
+you feel is best for achieving secure finality times on Polygon.
+
+
+Source - https://docs.chain.link/docs/vrf-contracts/
