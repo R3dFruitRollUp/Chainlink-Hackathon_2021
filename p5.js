@@ -1,5 +1,6 @@
 // code sourced from https://p5js.org/examples/3d-textures.html
 // video source: https://vimeo.com/90312869
+// sources for video/image assets should be pulled from chainlink videos and memes
 let img;
 let vid;
 let theta = 0;
