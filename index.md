@@ -7,6 +7,6 @@
 	<meta name="author" content="r3dfruitrollup sage GZR">
 </head>
 <body>
-	<h1><center>MOO</center></h1>
+	<h1><center>MooMoos</center></h1>
 </body>
 </html>
