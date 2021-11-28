@@ -1,6 +1,6 @@
 .CowShowcase {
-    height: 500px;
-    width: 500px;
+    height: 300px;
+    width: 300px;
     margin: 0 auto;
     background-color: #79a3f8;
     border-radius: 50%;
@@ -28,4 +28,19 @@
     backdrop-filter: blur(5px);
     transition: 0.5s;
     clip-path: polygon(0 calc(100% - 100px),100% calc(100% - 100px),100% 100%,0% 100%);
+}
+.Title {
+    background-color: #12a331;
+    text-align: center;
+    color: white;
+}
+
+.center-text-block {
+    text-align: center;
+}
+.left_align-text-block {
+    width: 300px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
 }
