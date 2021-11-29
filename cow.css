@@ -1,11 +1,13 @@
 .CowShowcase {
-    height: 300px;
-    width: 300px;
+    height: 500px;
+    width: 500px;
     margin: 0 auto;
     background-color: #79a3f8;
     border-radius: 50%;
     position: relative;
     cursor: pointer;
+    float: left;
+    margin-bottom: 50px;
 }
 .CowShowcase:hover .overlay {
     clip-path: polygon(0 0,100% 0,100% 100%,0% 100%); 
@@ -37,10 +39,23 @@
 
 .center-text-block {
     text-align: center;
+    margin-top: 150px;
 }
 .left_align-text-block {
-    width: 300px;
-    text-align: left;
-    margin-left: auto;
-    margin-right: auto;
+
+    width: 500px;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.5em;
 }
