@@ -2,10 +2,10 @@
 Code Repository for the chainlink hackathon
 
 Who we are;
-r3dfruitrollup
-GZR
-Sage
-
+r3dfruitrollup \n
+GZR \n
+Sage \n
+ 
 What we hoped to accomplish;
   Our hopes were to complete a randomly colorized SVG that was premade in order to mint a seies of Cow NFT's that utilizing the Chainlink VRF number.
   This number is then used to take the base number and convert it to the corresponding encoding of an HTML color code that is used as
