@@ -15,7 +15,7 @@ What we hoped to accomplish;
   with new images.
 
 Links;
- Github Page - 
+
  Sol file - https://github.com/R3dFruitRollUp/Chainlink-Hackathon_2021/blob/main/RandomSVG.sol
  
  
